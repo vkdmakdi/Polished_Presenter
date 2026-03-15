@@ -1,0 +1,33 @@
+{
+  "video_path": "interview.mp4.mp4",
+  "duration_sec": 21.58526666666667,
+  "sampled_frames": 104,
+  "eye_contact_pct_soft": 21.34770009999013,
+  "eye_contact_pct_binary": 40.38461538461539,
+  "mean_head_motion_deg": 2.3784284692474396,
+  "blink_count": 3,
+  "blinks_per_min": 8.33902136951439,
+  "face_metrics": {
+    "mean_mar": 0.004604968871652391,
+    "mean_brow_norm": 0.15897785961088612,
+    "expression_score": 0.35
+  },
+  "posture_score": 0.4,
+  "hand_motion_mean_px": 43.7934684753418,
+  "hand_movement_score": 0.7,
+  "subscores": {
+    "eye_score": 0.3557950016665022,
+    "head_score": 1.0,
+    "blink_score": 1.0,
+    "posture_score": 0.4,
+    "hand_score": 0.7,
+    "face_score": 0.35
+  },
+  "final_score_percent": 63.9,
+  "classification": "Somewhat confident / neutral",
+  "feedback": [
+    "Improve eye contact: look toward the camera more consistently.",
+    "Posture appears slouched; sit upright and open your chest.",
+    "Facial expression appears tense; try gentle smiles and relax forehead."
+  ]
+}
